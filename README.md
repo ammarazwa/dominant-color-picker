@@ -1,7 +1,7 @@
 # 🎨 Color Picker (with K-Means)
 
 A simple web app built with Streamlit that extracts the **5 most dominant colors** from uploaded image using **K-Means Clustering algorithm**.
-
+Access the color picker program by clicking this link https://dominantcolorpicker.streamlit.app/
 ---
 
 ## 🚀 Features
